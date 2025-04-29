@@ -1,4 +1,4 @@
-# Simple Layered C# Web Application
+# Simple Horizontal Layered C# Web Application
 
 This is a simple task management web application demonstrating a clean layered architecture in C# with CQRS pattern.
 
@@ -80,3 +80,9 @@ The application follows a clean layered architecture:
 - **Business Logic Layer**: Domain models and business rules
 - **Infrastructure Layer**: Cross-cutting concerns like logging, caching, etc.
 - **Common Layer**: Helper classes and utilities 
+
+## Things Missing
+- Simple Injector
+- NHibernate
+- CommandRunner/our Command pattern
+- DAL is slightly different in that it doesnt use CommandRunner
