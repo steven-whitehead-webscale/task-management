@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "yu38QtEfHjinSgXwSWHuCyPfHvj4Kz0cfDPzuEi90rQ=",
+  "Source": "TaskManagement.Web",
+  "BasePath": "_content/TaskManagement.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TaskManagement.Web\\wwwroot",
+      "Source": "TaskManagement.Web",
+      "ContentRoot": "C:\\projects\\app-layering\\TaskManagement.Web\\wwwroot\\",
+      "BasePath": "_content/TaskManagement.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\projects\\app-layering\\TaskManagement.Web\\obj\\Debug\\net9.0\\compressed\\2e5tbznop7-5q0sqr91x2.gz",
+      "SourceId": "TaskManagement.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\app-layering\\TaskManagement.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TaskManagement.Web",
+      "RelativePath": "js/tasks#[.{fingerprint=5q0sqr91x2}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\projects\\app-layering\\TaskManagement.Web\\wwwroot\\js\\tasks.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "g181401sr3",
+      "Integrity": "DI1DQ3Mrd5yNIEE3MML7xhXJ+pl1+uEpCjySBvrhoEk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\projects\\app-layering\\TaskManagement.Web\\wwwroot\\js\\tasks.js"
+    },
+    {
+      "Identity": "C:\\projects\\app-layering\\TaskManagement.Web\\obj\\Debug\\net9.0\\compressed\\7au403i2w7-upq4t3rz4v.gz",
+      "SourceId": "TaskManagement.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\app-layering\\TaskManagement.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TaskManagement.Web",
+      "RelativePath": "index#[.{fingerprint=upq4t3rz4v}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\projects\\app-layering\\TaskManagement.Web\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "p1na5hbm2l",
+      "Integrity": "0zOulZuf9wyHE/0akY32nlIQ2RTK361zwOI9Q818Yp8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\projects\\app-layering\\TaskManagement.Web\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\projects\\app-layering\\TaskManagement.Web\\obj\\Debug\\net9.0\\compressed\\fhtvn9bs9o-vv5iw04rq2.gz",
+      "SourceId": "TaskManagement.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\app-layering\\TaskManagement.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TaskManagement.Web",
+      "RelativePath": "simple#[.{fingerprint=vv5iw04rq2}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\projects\\app-layering\\TaskManagement.Web\\wwwroot\\simple.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "luccd544cr",
+      "Integrity": "DW1Ib0DOfREkFiAIQZ6gwt5C8gOq9GXPt8R6o9Ko2G4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\projects\\app-layering\\TaskManagement.Web\\wwwroot\\simple.html"
+    },
+    {
+      "Identity": "C:\\projects\\app-layering\\TaskManagement.Web\\wwwroot\\index.html",
+      "SourceId": "TaskManagement.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\app-layering\\TaskManagement.Web\\wwwroot\\",
+      "BasePath": "_content/TaskManagement.Web",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "upq4t3rz4v",
+      "Integrity": "vgasNtDGx9vbt9LOsXC0MErNILCht8TE+HoejLh+4yM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\projects\\app-layering\\TaskManagement.Web\\wwwroot\\js\\tasks.js",
+      "SourceId": "TaskManagement.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\app-layering\\TaskManagement.Web\\wwwroot\\",
+      "BasePath": "_content/TaskManagement.Web",
+      "RelativePath": "js/tasks#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5q0sqr91x2",
+      "Integrity": "U5cT16vPhlaylY3N70i0LPXR4/jZhcGHK5JoYr0Usw8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\tasks.js"
+    },
+    {
+      "Identity": "C:\\projects\\app-layering\\TaskManagement.Web\\wwwroot\\simple.html",
+      "SourceId": "TaskManagement.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\app-layering\\TaskManagement.Web\\wwwroot\\",
+      "BasePath": "_content/TaskManagement.Web",
+      "RelativePath": "simple#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vv5iw04rq2",
+      "Integrity": "tfH/i69hcw/Yelj3UjGryl5KJebqKdNMO5eQ4JWJMcc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\simple.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\projects\\app-layering\\TaskManagement.Web\\obj\\Debug\\net9.0\\compressed\\7au403i2w7-upq4t3rz4v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000657894737"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1519"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0zOulZuf9wyHE/0akY32nlIQ2RTK361zwOI9Q818Yp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 07:54:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vgasNtDGx9vbt9LOsXC0MErNILCht8TE+HoejLh+4yM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vgasNtDGx9vbt9LOsXC0MErNILCht8TE+HoejLh+4yM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\projects\\app-layering\\TaskManagement.Web\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6386"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vgasNtDGx9vbt9LOsXC0MErNILCht8TE+HoejLh+4yM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 07:54:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vgasNtDGx9vbt9LOsXC0MErNILCht8TE+HoejLh+4yM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\projects\\app-layering\\TaskManagement.Web\\obj\\Debug\\net9.0\\compressed\\7au403i2w7-upq4t3rz4v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0zOulZuf9wyHE/0akY32nlIQ2RTK361zwOI9Q818Yp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 07:54:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0zOulZuf9wyHE/0akY32nlIQ2RTK361zwOI9Q818Yp8="
+        }
+      ]
+    },
+    {
+      "Route": "index.upq4t3rz4v.html",
+      "AssetFile": "C:\\projects\\app-layering\\TaskManagement.Web\\obj\\Debug\\net9.0\\compressed\\7au403i2w7-upq4t3rz4v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000657894737"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1519"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0zOulZuf9wyHE/0akY32nlIQ2RTK361zwOI9Q818Yp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 07:54:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vgasNtDGx9vbt9LOsXC0MErNILCht8TE+HoejLh+4yM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "upq4t3rz4v"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vgasNtDGx9vbt9LOsXC0MErNILCht8TE+HoejLh+4yM="
+        }
+      ]
+    },
+    {
+      "Route": "index.upq4t3rz4v.html",
+      "AssetFile": "C:\\projects\\app-layering\\TaskManagement.Web\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6386"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vgasNtDGx9vbt9LOsXC0MErNILCht8TE+HoejLh+4yM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 07:54:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "upq4t3rz4v"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vgasNtDGx9vbt9LOsXC0MErNILCht8TE+HoejLh+4yM="
+        }
+      ]
+    },
+    {
+      "Route": "index.upq4t3rz4v.html.gz",
+      "AssetFile": "C:\\projects\\app-layering\\TaskManagement.Web\\obj\\Debug\\net9.0\\compressed\\7au403i2w7-upq4t3rz4v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0zOulZuf9wyHE/0akY32nlIQ2RTK361zwOI9Q818Yp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 07:54:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "upq4t3rz4v"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0zOulZuf9wyHE/0akY32nlIQ2RTK361zwOI9Q818Yp8="
+        }
+      ]
+    },
+    {
+      "Route": "js/tasks.5q0sqr91x2.js",
+      "AssetFile": "C:\\projects\\app-layering\\TaskManagement.Web\\obj\\Debug\\net9.0\\compressed\\2e5tbznop7-5q0sqr91x2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000576036866"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1735"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DI1DQ3Mrd5yNIEE3MML7xhXJ+pl1+uEpCjySBvrhoEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 08:02:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"U5cT16vPhlaylY3N70i0LPXR4/jZhcGHK5JoYr0Usw8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5q0sqr91x2"
+        },
+        {
+          "Name": "label",
+          "Value": "js/tasks.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U5cT16vPhlaylY3N70i0LPXR4/jZhcGHK5JoYr0Usw8="
+        }
+      ]
+    },
+    {
+      "Route": "js/tasks.5q0sqr91x2.js",
+      "AssetFile": "C:\\projects\\app-layering\\TaskManagement.Web\\wwwroot\\js\\tasks.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U5cT16vPhlaylY3N70i0LPXR4/jZhcGHK5JoYr0Usw8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 08:02:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5q0sqr91x2"
+        },
+        {
+          "Name": "label",
+          "Value": "js/tasks.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U5cT16vPhlaylY3N70i0LPXR4/jZhcGHK5JoYr0Usw8="
+        }
+      ]
+    },
+    {
+      "Route": "js/tasks.5q0sqr91x2.js.gz",
+      "AssetFile": "C:\\projects\\app-layering\\TaskManagement.Web\\obj\\Debug\\net9.0\\compressed\\2e5tbznop7-5q0sqr91x2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DI1DQ3Mrd5yNIEE3MML7xhXJ+pl1+uEpCjySBvrhoEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 08:02:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5q0sqr91x2"
+        },
+        {
+          "Name": "label",
+          "Value": "js/tasks.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DI1DQ3Mrd5yNIEE3MML7xhXJ+pl1+uEpCjySBvrhoEk="
+        }
+      ]
+    },
+    {
+      "Route": "js/tasks.js",
+      "AssetFile": "C:\\projects\\app-layering\\TaskManagement.Web\\obj\\Debug\\net9.0\\compressed\\2e5tbznop7-5q0sqr91x2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000576036866"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1735"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DI1DQ3Mrd5yNIEE3MML7xhXJ+pl1+uEpCjySBvrhoEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 08:02:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"U5cT16vPhlaylY3N70i0LPXR4/jZhcGHK5JoYr0Usw8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U5cT16vPhlaylY3N70i0LPXR4/jZhcGHK5JoYr0Usw8="
+        }
+      ]
+    },
+    {
+      "Route": "js/tasks.js",
+      "AssetFile": "C:\\projects\\app-layering\\TaskManagement.Web\\wwwroot\\js\\tasks.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U5cT16vPhlaylY3N70i0LPXR4/jZhcGHK5JoYr0Usw8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 08:02:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U5cT16vPhlaylY3N70i0LPXR4/jZhcGHK5JoYr0Usw8="
+        }
+      ]
+    },
+    {
+      "Route": "js/tasks.js.gz",
+      "AssetFile": "C:\\projects\\app-layering\\TaskManagement.Web\\obj\\Debug\\net9.0\\compressed\\2e5tbznop7-5q0sqr91x2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DI1DQ3Mrd5yNIEE3MML7xhXJ+pl1+uEpCjySBvrhoEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 08:02:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DI1DQ3Mrd5yNIEE3MML7xhXJ+pl1+uEpCjySBvrhoEk="
+        }
+      ]
+    },
+    {
+      "Route": "simple.html",
+      "AssetFile": "C:\\projects\\app-layering\\TaskManagement.Web\\obj\\Debug\\net9.0\\compressed\\fhtvn9bs9o-vv5iw04rq2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001980198020"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "504"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DW1Ib0DOfREkFiAIQZ6gwt5C8gOq9GXPt8R6o9Ko2G4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 07:05:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tfH/i69hcw/Yelj3UjGryl5KJebqKdNMO5eQ4JWJMcc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tfH/i69hcw/Yelj3UjGryl5KJebqKdNMO5eQ4JWJMcc="
+        }
+      ]
+    },
+    {
+      "Route": "simple.html",
+      "AssetFile": "C:\\projects\\app-layering\\TaskManagement.Web\\wwwroot\\simple.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1058"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tfH/i69hcw/Yelj3UjGryl5KJebqKdNMO5eQ4JWJMcc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 07:05:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tfH/i69hcw/Yelj3UjGryl5KJebqKdNMO5eQ4JWJMcc="
+        }
+      ]
+    },
+    {
+      "Route": "simple.html.gz",
+      "AssetFile": "C:\\projects\\app-layering\\TaskManagement.Web\\obj\\Debug\\net9.0\\compressed\\fhtvn9bs9o-vv5iw04rq2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DW1Ib0DOfREkFiAIQZ6gwt5C8gOq9GXPt8R6o9Ko2G4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 07:05:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DW1Ib0DOfREkFiAIQZ6gwt5C8gOq9GXPt8R6o9Ko2G4="
+        }
+      ]
+    },
+    {
+      "Route": "simple.vv5iw04rq2.html",
+      "AssetFile": "C:\\projects\\app-layering\\TaskManagement.Web\\obj\\Debug\\net9.0\\compressed\\fhtvn9bs9o-vv5iw04rq2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001980198020"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "504"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DW1Ib0DOfREkFiAIQZ6gwt5C8gOq9GXPt8R6o9Ko2G4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 07:05:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tfH/i69hcw/Yelj3UjGryl5KJebqKdNMO5eQ4JWJMcc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vv5iw04rq2"
+        },
+        {
+          "Name": "label",
+          "Value": "simple.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tfH/i69hcw/Yelj3UjGryl5KJebqKdNMO5eQ4JWJMcc="
+        }
+      ]
+    },
+    {
+      "Route": "simple.vv5iw04rq2.html",
+      "AssetFile": "C:\\projects\\app-layering\\TaskManagement.Web\\wwwroot\\simple.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1058"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tfH/i69hcw/Yelj3UjGryl5KJebqKdNMO5eQ4JWJMcc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 07:05:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vv5iw04rq2"
+        },
+        {
+          "Name": "label",
+          "Value": "simple.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tfH/i69hcw/Yelj3UjGryl5KJebqKdNMO5eQ4JWJMcc="
+        }
+      ]
+    },
+    {
+      "Route": "simple.vv5iw04rq2.html.gz",
+      "AssetFile": "C:\\projects\\app-layering\\TaskManagement.Web\\obj\\Debug\\net9.0\\compressed\\fhtvn9bs9o-vv5iw04rq2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DW1Ib0DOfREkFiAIQZ6gwt5C8gOq9GXPt8R6o9Ko2G4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 07:05:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vv5iw04rq2"
+        },
+        {
+          "Name": "label",
+          "Value": "simple.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DW1Ib0DOfREkFiAIQZ6gwt5C8gOq9GXPt8R6o9Ko2G4="
+        }
+      ]
+    }
+  ]
+}

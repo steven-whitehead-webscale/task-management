@@ -1,0 +1,11 @@
+C:\projects\app-layering\TaskManagement.Common\bin\Debug\net9.0\TaskManagement.Common.deps.json
+C:\projects\app-layering\TaskManagement.Common\bin\Debug\net9.0\TaskManagement.Common.dll
+C:\projects\app-layering\TaskManagement.Common\bin\Debug\net9.0\TaskManagement.Common.pdb
+C:\projects\app-layering\TaskManagement.Common\obj\Debug\net9.0\TaskManagement.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\app-layering\TaskManagement.Common\obj\Debug\net9.0\TaskManagement.Common.AssemblyInfoInputs.cache
+C:\projects\app-layering\TaskManagement.Common\obj\Debug\net9.0\TaskManagement.Common.AssemblyInfo.cs
+C:\projects\app-layering\TaskManagement.Common\obj\Debug\net9.0\TaskManagement.Common.csproj.CoreCompileInputs.cache
+C:\projects\app-layering\TaskManagement.Common\obj\Debug\net9.0\TaskManagement.Common.dll
+C:\projects\app-layering\TaskManagement.Common\obj\Debug\net9.0\refint\TaskManagement.Common.dll
+C:\projects\app-layering\TaskManagement.Common\obj\Debug\net9.0\TaskManagement.Common.pdb
+C:\projects\app-layering\TaskManagement.Common\obj\Debug\net9.0\ref\TaskManagement.Common.dll

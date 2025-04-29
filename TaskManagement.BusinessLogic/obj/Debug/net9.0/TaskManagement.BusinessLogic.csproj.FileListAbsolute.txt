@@ -1,0 +1,15 @@
+C:\projects\app-layering\TaskManagement.BusinessLogic\obj\Debug\net9.0\TaskManagement.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\app-layering\TaskManagement.BusinessLogic\obj\Debug\net9.0\TaskManagement.BusinessLogic.AssemblyInfoInputs.cache
+C:\projects\app-layering\TaskManagement.BusinessLogic\obj\Debug\net9.0\TaskManagement.BusinessLogic.AssemblyInfo.cs
+C:\projects\app-layering\TaskManagement.BusinessLogic\obj\Debug\net9.0\TaskManagement.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\projects\app-layering\TaskManagement.BusinessLogic\bin\Debug\net9.0\TaskManagement.BusinessLogic.deps.json
+C:\projects\app-layering\TaskManagement.BusinessLogic\bin\Debug\net9.0\TaskManagement.BusinessLogic.dll
+C:\projects\app-layering\TaskManagement.BusinessLogic\bin\Debug\net9.0\TaskManagement.BusinessLogic.pdb
+C:\projects\app-layering\TaskManagement.BusinessLogic\obj\Debug\net9.0\TaskManagement.BusinessLogic.dll
+C:\projects\app-layering\TaskManagement.BusinessLogic\obj\Debug\net9.0\refint\TaskManagement.BusinessLogic.dll
+C:\projects\app-layering\TaskManagement.BusinessLogic\obj\Debug\net9.0\TaskManagement.BusinessLogic.pdb
+C:\projects\app-layering\TaskManagement.BusinessLogic\obj\Debug\net9.0\ref\TaskManagement.BusinessLogic.dll
+C:\projects\app-layering\TaskManagement.BusinessLogic\bin\Debug\net9.0\TaskManagement.Common.dll
+C:\projects\app-layering\TaskManagement.BusinessLogic\bin\Debug\net9.0\TaskManagement.Common.pdb
+C:\projects\app-layering\TaskManagement.BusinessLogic\obj\Debug\net9.0\TaskManagement.BusinessLogic.csproj.AssemblyReference.cache
+C:\projects\app-layering\TaskManagement.BusinessLogic\obj\Debug\net9.0\TaskMana.94DCE88E.Up2Date
