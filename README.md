@@ -2,6 +2,9 @@
 
 This is a simple task management web application demonstrating a clean layered architecture in C# with CQRS pattern.
 
+![image](https://github.com/user-attachments/assets/6ba7a4a9-2c0f-4177-b313-19211cff8bdc)
+
+
 ## Project Structure
 
 - **TaskManagement.Web** - Presentation Layer (ASP.NET Core Web App)
