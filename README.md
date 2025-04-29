@@ -84,6 +84,6 @@ The application follows a clean layered architecture:
 ## Things Missing
 - Simple Injector
 - NHibernate
-- CommandRunner/our Command pattern
+- CommandRunner/our Command pattern - how does our commands and services differ?
 - DAL is slightly different in that it doesnt use CommandRunner
 - Manager/Utility classes
