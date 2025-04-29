@@ -86,3 +86,4 @@ The application follows a clean layered architecture:
 - NHibernate
 - CommandRunner/our Command pattern
 - DAL is slightly different in that it doesnt use CommandRunner
+- Manager/Utility classes
