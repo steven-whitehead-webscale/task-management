@@ -87,3 +87,6 @@ The application follows a clean layered architecture:
 - CommandRunner/our Command pattern - how does our commands and services differ?
 - DAL is slightly different in that it doesnt use CommandRunner
 - Manager/Utility classes
+- database to persist to, which will be good to demonstrate when vertical layering added to this sample
+- vertical layering and intercommunication between domains
+- region seperation
